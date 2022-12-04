@@ -1,0 +1,31 @@
+.piyoda {
+    background-image: url("../images/boy.png");
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    background-position: 50% 20%;
+}
+
+.velosiped {
+    background-image: url("../images/bicycle.png");
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    background-position: 50% 20%;
+}
+
+.moshina {
+    background-image: url("../images/sedan.png");
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    background-position: 50% 20%;
+}
+
+.samolyot {
+    background-image: url("../images/airplane.png");
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    background-position: 50% 20%;
+}
+
+.subtitle {
+    font-size: 22px;
+}
